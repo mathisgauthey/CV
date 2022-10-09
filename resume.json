@@ -1,0 +1,472 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Mathis Gauthey",
+    "label": "Ingénieur mécanique",
+    "picture": "Photo_CV_Carre.jpg",
+    "email": "mathis.gauthey@gmail.com",
+    "phone": "06 38 26 04 03",
+    "url": "https://mathisgauthey.github.io/",
+    "summary": "Recherche un emploi de Octobre 2022 à Février 2023 inclus pour financer un projet personnel.",
+    "location": {
+      "address": "29 Allée des marronniers",
+      "postalCode": "01250",
+      "city": "Saint-Just",
+      "countryCode": "FR",
+      "region": "Rhone-Alpes"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Mathis Gauthey",
+        "url": "https://www.linkedin.com/in/mathisgauthey/"
+      },
+      {
+        "network": "Github",
+        "username": "mathisgauthey",
+        "url": "https://github.com/mathisgauthey"
+      },
+      {
+        "network": "Website",
+        "username": "Site Web Personnel",
+        "url": "https://mathisgauthey.github.io/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "🔬 Stagiaire ingénieur d'études - Efectis France",
+      "location": "Villeurbanne, Auvergne-Rhône-Alpes, France",
+      "description": "Efectis France",
+      "position": "🔬 Stagiaire ingénieur d'études - Efectis France",
+      "url": "https://efectis.com/fr/",
+      "startDate": "2022-02-14",
+      "endDate": "2022-07-29",
+      "summary": "Projet de recherche et innovation sur le comportement des structures soumises à un effet de surpression.",
+      "highlights": [
+        "Analyse bibliographique des différentes méthodes d'étude d'une structure face à l'effet d'une onde de surpression",
+        "Rédaction en LaTeX d'un guide méthodologique complet d'analyse d'une structure soumise à une explosion comprenant une partie théorique et une partie pratique avec le travail expérimental réalisé au cours du stage",
+        "Développement de codes de calculs du DLF/SRS d'un signal de surpression sous Python",
+        "Réalisation d’une feuille Excel de calculs pour traiter les cas courants en élastique ou plastique",
+        "Développement de codes de calculs éléments finis sous Ansys APDL pour valider la partie théorique du guide",
+        "Développement de scripts de post-traitement des résultats sous Python"
+      ]
+    },
+    {
+      "name": "🏭 Stagiaire ingénieur amélioration continue - Amcor France",
+      "location": "Chalon-sur-Saône, Bourgogne-Franche-Comté, France",
+      "description": "Amcor France",
+      "position": "🏭 Stagiaire ingénieur amélioration continue - Amcor France",
+      "url": "https://www.linkedin.com/in/mathisgauthey/details/experience/1635469608746/single-media-viewer/?type=LINK&profileId=ACoAACwVHDcBXbEjDftgSqnaYcMINyUADzFzDj0",
+      "startDate": "2021-03-01",
+      "endDate": "2021-08-27",
+      "summary": "Projet d'amélioration continu sur un îlot de production.",
+      "highlights": [
+        "Analyse des causes de dé-cadencement et de perte de TRS",
+        "Mise en place d'un planning de maintenance préventive et de modes opératoires pour tout un îlot de production",
+        "Mise en place d'outils et formation du personnel au management de la performance au quotidien",
+        "Chantier 5S sur plusieurs lignes de production",
+        "Résolutions de problèmes opérationnels sur les différentes machines de l’Îlot de production",
+        "Collaboration et travail d'équipe avec les différents secteurs : Maintenance, R&D, Qualité, Production"
+      ]
+    },
+    {
+      "name": "💉 Opérateur sur presse - Rovipharm",
+      "location": "Val-Revermont, Auvergne-Rhône-Alpes, France",
+      "description": "Rovipharm",
+      "position": "💉 Opérateur sur presse - Rovipharm",
+      "url": "https://www.sgh-healthcaring.com/fr/content/16-rovipharm",
+      "startDate": "2019-06-17",
+      "endDate": "2019-07-03",
+      "summary": "Opérateur sur presse, manutention de matériel médical en salles blanches, travail en équipe.",
+      "highlights": [
+
+      ]
+    },
+    {
+      "name": "🥼 Agent de production - Kalhyge",
+      "location": "Bourg-en-Bresse, Auvergne-Rhône-Alpes, France",
+      "description": "Kalhyge",
+      "position": "🥼 Agent de production - Kalhyge",
+      "url": "https://www.kalhyge.fr/",
+      "startDate": "2019-06-11",
+      "endDate": "2019-06-12",
+      "summary": "Manutentions diverses, tri et gestion du linge, cintrage du linge. Travail à la chaine et transport des stocks de linge jusqu'au convoyeur.",
+      "highlights": [
+
+      ]
+    },
+    {
+      "name": "🏠 Opérateur sur presse - TMP Convert",
+      "location": "Simandre-sur-Suran, Auvergne-Rhône-Alpes, France",
+      "description": "Amcor France",
+      "position": "🏠 Opérateur sur presse - TMP Convert",
+      "url": "https://www.tmpconvert.com/",
+      "startDate": "2019-06-05",
+      "endDate": "2019-06-05",
+      "summary": "Opérateur sur presse, manutention de pièces d'aménagement extérieur issues de presses à injection plastique.",
+      "highlights": [
+
+      ]
+    },
+    {
+      "name": "💉 Opérateur sur presse - Rovipharm",
+      "location": "Val-Revermont, Auvergne-Rhône-Alpes, France",
+      "description": "Rovipharm",
+      "position": "💉 Opérateur sur presse - Rovipharm",
+      "url": "https://www.sgh-healthcaring.com/fr/content/16-rovipharm",
+      "startDate": "2018-05-29",
+      "endDate": "2018-07-23",
+      "summary": "Opérateur sur presse, manutention de matériel médical en salles blanches, travail en équipe.",
+      "highlights": [
+
+      ]
+    },
+    {
+      "name": "💉 Opérateur sur presse - Rovipharm",
+      "location": "Val-Revermont, Auvergne-Rhône-Alpes, France",
+      "description": "Rovipharm",
+      "position": "💉 Opérateur sur presse - Rovipharm",
+      "url": "https://www.sgh-healthcaring.com/fr/content/16-rovipharm",
+      "startDate": "2017-07-03",
+      "endDate": "2017-07-21",
+      "summary": "Opérateur sur presse, manutention de matériel médical en salles blanches, travail en équipe.",
+      "highlights": [
+
+      ]
+    },
+    {
+      "name": "💻 Stagiaire d'observation - Ellipse Informatique",
+      "location": "Bourg-en-Bresse, Auvergne-Rhône-Alpes, France",
+      "description": "Ellipse Informatique",
+      "position": "💻 Stagiaire d'observation - Ellipse Informatique",
+      "url": "https://www.ellipseinfo.com/",
+      "startDate": "2014-02-03",
+      "endDate": "2014-02-07",
+      "summary": "Stage d’observation de 3e au collège dans un magasin de vente et de réparation de matériel informatique.",
+      "highlights": [
+        "Montage d'un PC complet et mise en route",
+        "Mise en rayon",
+        "Vente de produits"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Polytech Lyon",
+      "url": "https://polytech.univ-lyon1.fr/formation/cycle-ingenieur/mecanique",
+      "area": "Ingénierie",
+      "studyType": "Diplôme d'ingénieur",
+      "startDate": "2019",
+      "endDate": "2022",
+      "score": "Diplôme obtenu. Classement : 19/45",
+      "courses": [
+        "Mathématiques",
+        "CAO : Catia V5, Creo",
+        "Mécanique générale",
+        "Mécanique des milieux continus",
+        "Résistance des matériaux",
+        "Mécanique des structures : Python, Patran, Nastran",
+        "Mécanique analytique",
+        "Mécanique des systèmes multicorps : Matlab, Adams",
+        "Mécanique vibratoire et acoustique : Matlab",
+        "Mécanique non linéaire",
+        "Dynamique rapide et chocs",
+        "Informatique : C, C++, Python",
+        "Méthodes numériques : Méthode des éléments finis",
+        "Calculs parallels : Linux, développement en C avec OpenMP et MPI",
+        "Traitement du signal",
+        "Automatique",
+        "Mécanique des fluides : Ansys Fluent",
+        "Phénomènes de transfert",
+        "Dynamique des gaz et aéroacoustique",
+        "Physique de la combustion",
+        "Thermodynamique",
+        "Thermomécanique",
+        "Gestion de projet",
+        "Management de la qualité"
+      ]
+    },
+    {
+      "institution": "Polytech Lyon",
+      "url": "https://polytech.univ-lyon1.fr/formation/peip",
+      "area": "Mathématiques",
+      "studyType": "Classes préparatoires",
+      "startDate": "2017",
+      "endDate": "2019",
+      "score": "PeiP validée. Classement national : 697/1618",
+      "courses": [
+        "Mathématiques : Algèbre et analyse",
+        "Sciences de la matière",
+        "Algorithmique et programmation : C++, Matlab",
+        "Introduction à la Mécanique Newtonienne",
+        "Mécanique des systèmes de solides et de points matériels",
+        "Électromagnétisme",
+        "Optique physique et spectroscopie",
+        "Thermodynamique classique avancée",
+        "Gestion de projet : Gantt"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "⌨️ Développement de scripts de calcul mécanique",
+      "level": "Bonnes pratiques de programmation",
+      "keywords": [
+        "C",
+        "C++",
+        "Python",
+        "Matlab"
+      ]
+    },
+    {
+      "name": "📏 Conception Assistée par Ordinateur",
+      "level": "Expérience de plusieurs projets de conception",
+      "keywords": [
+        "Creo",
+        "Catia V5",
+        "OnShape"
+      ]
+    },
+    {
+      "name": "⏳ Simulation numérique",
+      "level": "Utilisation d'Ansys APDL pendant mon stage de fin d'études",
+      "keywords": [
+        "Ansys APDL",
+        "Adams",
+        "Patran Nastran",
+        "Ansys Fluent"
+      ]
+    },
+    {
+      "name": "💻 Informatique et bureautique",
+      "level": "Grande expérience personnelle",
+      "keywords": [
+        "LaTeX",
+        "Microsoft Office",
+        "Bash",
+        "Batch",
+        "Powershell"
+      ]
+    },
+    {
+      "name": "✅ Organisation",
+      "level": "Lecture sur la productivité pendant mon temps libre",
+      "keywords": [
+        "GTD (Getting Things Done)",
+        "PARA",
+        "Zettelkasten"
+      ]
+    },
+    {
+      "name": "👥 Travail d'équipes",
+      "level": "Nombreux projets et emplois en équipe",
+      "keywords": [
+        "Agile",
+        "Kanban",
+        "Scrum",
+        "Git Workflow",
+        "Outils clouds"
+      ]
+    },
+    {
+      "name": "📅 Gestion de projets",
+      "level": "Chef de projet pendant les projets au cours de mes études",
+      "keywords": [
+        "Gantt"
+      ]
+    },
+    {
+      "name": "🚗 Permis",
+      "level": "Validé",
+      "keywords": [
+        "A (Moto)",
+        "B (Voiture)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "🇫🇷 Français",
+      "fluency": "Langue natale"
+    },
+    {
+      "language": "🇬🇧 English",
+      "fluency": "Fluent : TOEIC C1 965/990"
+    },
+    {
+      "language": "🇪🇸 Español",
+      "fluency": "A2-B1"
+    }
+  ],
+  "interests": [
+    {
+      "name": "🥾 Randonnée",
+      "keywords": [
+        "Bivouacs",
+        "Randonnées",
+        "Trekking"
+      ]
+    },
+    {
+      "name": "💪 Callisthénie",
+      "keywords": [
+        "Overcoming Gravity",
+        "Musculation",
+        "Poids de corps"
+      ]
+    },
+    {
+      "name": "💻 Informatique et high-tech",
+      "keywords": [
+        "Montage démontage PC",
+        "Entretien PC",
+        "Dépannage logiciel",
+        "Dual-boot Linux encrypté",
+        "Actualité numérique"
+      ]
+    },
+    {
+      "name": "🎮 Gaming",
+      "keywords": [
+        "Passion de toujours"
+      ]
+    },
+    {
+      "name": "📕 Lecture",
+      "keywords": [
+        "Apprentissage",
+        "Science-fiction",
+        "Fantasy"
+      ]
+    },
+    {
+      "name": "📷 Photo & Vidéo",
+      "keywords": [
+        "Montage photo",
+        "Montage vidéo"
+      ]
+    },
+    {
+      "name": "🎵 Musique",
+      "keywords": [
+        "Rock",
+        "Everyday"
+      ]
+    },
+    {
+      "name": "🧳 Voyage",
+      "keywords": [
+        "Visite",
+        "Vanlife",
+        "Moto"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Projet industriel",
+      "description": "Conception d'un chariot de course à assistance électrique.",
+      "highlights": [
+        "Simulations numérique de validation sous Adams",
+        "Modélisation complète du chariot avec les différents composants sous Catia V5"
+      ],
+      "keywords": [
+        "Adams",
+        "Catia V5"
+      ],
+      "startDate": "2021-10-18",
+      "endDate": "2021-02-09",
+      "url": "",
+      "roles": [
+        "Chef de projet"
+      ],
+      "entity": "",
+      "type": "Projet de fin d'études de conception"
+    },
+    {
+      "name": "Projet de CAO",
+      "description": "Conception d'un revolver Colt Python en 3D sous Catia V5 pendant le confinement en collaboration avec 2 autres étudiants.",
+      "highlights": [
+        "Premier projet de CAO : Pendant le confinement, donc collaboration cloud requise"
+      ],
+      "keywords": [
+        "Catia V5",
+        "Cloud"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": [
+        ""
+      ],
+      "entity": "",
+      "type": "Projet de conception"
+    },
+    {
+      "name": "Projet de gestion d'entreprise",
+      "description": "Utilisation du logiciel Kalypso pour une compétition entre 40 équipes gérant chacune une entreprise de coques de bateau.",
+      "highlights": [
+        "Top 30% du classement global"
+      ],
+      "keywords": [
+        "Kalypso",
+        "Gestion d'entreprise"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": [
+        ""
+      ],
+      "entity": "",
+      "type": "Projet de gestion d'entreprise"
+    },
+    {
+      "name": "Projet de création d'entreprise",
+      "description": "Création de l'entreprise GEOVELO proposant un boîtier de détection d'accident et de vol avec géolocalisation, accéléromètre et système de prévention des secours pour vélo.",
+      "highlights": [
+        "Majoration soutenance finale"
+      ],
+      "keywords": [
+        "GEOVELO",
+        "Accident",
+        "Velo",
+        "GPS",
+        "Accéléromètre"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": [
+        ""
+      ],
+      "entity": "",
+      "type": "Projet de création d'entreprise"
+    },
+    {
+      "name": "Gestion de projet",
+      "description": "Peut-on améliorer la résistance sismique d’un immeuble à l’aide d’un système de pendule amortisseur ?",
+      "highlights": [
+        "Projet terminé à temps selon le planning"
+      ],
+      "keywords": [
+        "Gantt",
+        "Matlab"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": [
+        ""
+      ],
+      "entity": "",
+      "type": "Entraînement à la gestion de projet avec un projet de recherche"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
