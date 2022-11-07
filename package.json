@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "jsonresume-theme-eloquent-mod": "^4.23.0",
-    "jsonresume-theme-kendall-fr": "^0.1.1"
+    "jsonresume-theme-jdambron-fr": "^1.0.3"
   }
 }

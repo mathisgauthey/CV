@@ -1,1 +1,1 @@
-resume serve --theme eloquent-mod
+resume serve --theme jdambron-fr
