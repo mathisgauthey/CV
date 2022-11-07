@@ -1,4 +1,4 @@
-bash build.sh
+bash build_local.sh
 cd ..
 cd CV-pdf
-bash build.sh
+bash build_local.sh
