@@ -1,0 +1,1 @@
+git add -A && git commit -a -m "resume updated: `date +'%Y-%m-%d %H-%M-%S'`" && git push
