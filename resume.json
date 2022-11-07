@@ -17,6 +17,16 @@
     },
     "profiles": [
       {
+        "network": "Website",
+        "username": "CV PDF",
+        "url": "https://mathisgauthey.github.io/CV-pdf/"
+      },
+      {
+        "network": "Website",
+        "username": "Site Web Personnel",
+        "url": "https://mathisgauthey.github.io/"
+      },
+      {
         "network": "LinkedIn",
         "username": "Mathis Gauthey",
         "url": "https://www.linkedin.com/in/mathisgauthey/"
@@ -25,11 +35,6 @@
         "network": "Github",
         "username": "mathisgauthey",
         "url": "https://github.com/mathisgauthey"
-      },
-      {
-        "network": "Website",
-        "username": "Site Web Personnel",
-        "url": "https://mathisgauthey.github.io/"
       }
     ]
   },
