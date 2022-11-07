@@ -18,13 +18,13 @@
     "profiles": [
       {
         "network": "Website",
-        "username": "CV PDF",
-        "url": "https://mathisgauthey.github.io/CV-pdf/"
+        "username": "Site Web Personnel",
+        "url": "https://mathisgauthey.github.io/"
       },
       {
         "network": "Website",
-        "username": "Site Web Personnel",
-        "url": "https://mathisgauthey.github.io/"
+        "username": "CV PDF",
+        "url": "https://mathisgauthey.github.io/CV-pdf/"
       },
       {
         "network": "LinkedIn",
