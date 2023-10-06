@@ -1,1 +1,0 @@
-resume serve --theme jdambron-fr

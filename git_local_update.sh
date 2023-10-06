@@ -1,1 +1,0 @@
-git add -A && git commit -a -m "CV updated: `date +'%Y-%m-%d %H-%M-%S'`" -m "changes: " -e && git push
