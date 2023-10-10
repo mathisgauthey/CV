@@ -63,6 +63,19 @@
       ]
     },
     {
+      "name": "📦 Préparateur de commandes - CODEP",
+      "location": "Bourg-en-Bresse, Auvergne-Rhône-Alpes, France",
+      "description": "",
+      "position": "📦 Préparateur de commandes - CODEP",
+      "url": "https://www.codep.fr/",
+      "startDate": "2022-11-10",
+      "endDate": "2023-11-18",
+      "summary": "Préparation de commandes pour professionnels",
+      "highlights": [
+
+      ]
+    },
+    {
       "name": "🍫 Serveur/Vendeur - La Chocolatière",
       "location": "Bourg-en-Bresse, Auvergne-Rhône-Alpes, France",
       "description": "",
@@ -71,19 +84,6 @@
       "startDate": "2022-10-25",
       "endDate": "2022-10-28",
       "summary": "Service à table, préparation de boissons chaudes, nettoyage des tables et du salon de thé.",
-      "highlights": [
-
-      ]
-    },
-    {
-      "name": "📦 Préparateur de commandes - CODEP",
-      "location": "Bourg-en-Bresse, Auvergne-Rhône-Alpes, France",
-      "description": "",
-      "position": "📦 Préparateur de commandes - CODEP",
-      "url": "https://www.codep.fr/",
-      "startDate": "2022-11-16",
-      "endDate": "2023-03-28",
-      "summary": "Préparation de commandes pour professionnels",
       "highlights": [
 
       ]
@@ -278,7 +278,7 @@
   "skills": [
     {
       "name": "⌨️ Développement de scripts de calcul mécanique",
-      "level": "Bonnes pratiques de programmation",
+      "level": "Avancé : Bonnes pratiques de programmation",
       "keywords": [
         "C",
         "C++",
@@ -288,7 +288,7 @@
     },
     {
       "name": "📏 Conception Assistée par Ordinateur",
-      "level": "Expérience de plusieurs projets de conception",
+      "level": "Intermédiaire : Expérience de plusieurs projets de conception",
       "keywords": [
         "Creo",
         "Catia V5",
@@ -297,7 +297,7 @@
     },
     {
       "name": "⏳ Simulation numérique",
-      "level": "Utilisation d'Ansys APDL pendant mon stage de fin d'études",
+      "level": "Avancé : Utilisation d'Ansys APDL pendant mon stage de fin d'études",
       "keywords": [
         "Ansys APDL",
         "Adams",
@@ -307,7 +307,7 @@
     },
     {
       "name": "💻 Informatique et bureautique",
-      "level": "Grande expérience personnelle",
+      "level": "Avancé : Grande expérience personnelle",
       "keywords": [
         "LaTeX",
         "Microsoft Office",
@@ -318,16 +318,16 @@
     },
     {
       "name": "✅ Organisation",
-      "level": "Lecture sur la productivité pendant mon temps libre",
+      "level": "Intermédiaire : Lecture sur la productivité pendant mon temps libre",
       "keywords": [
         "GTD (Getting Things Done)",
         "P.A.R.A.",
-        "Zettelkasten"
+        "Atomic Habits"
       ]
     },
     {
       "name": "👥 Travail d'équipes",
-      "level": "Nombreux projets et emplois en équipe",
+      "level": "Intermédiaire : Nombreux projets réalisés en équipe",
       "keywords": [
         "Agile",
         "Kanban",
@@ -338,14 +338,14 @@
     },
     {
       "name": "📅 Gestion de projets",
-      "level": "Chef de projet pendant les projets au cours de mes études",
+      "level": "Intermédiaire : Chef de projet pendant les projets au cours de mes études",
       "keywords": [
         "Gantt"
       ]
     },
     {
       "name": "🚗 Permis",
-      "level": "Validé",
+      "level": "Maîtrise : Validé",
       "keywords": [
         "A (Moto)",
         "B (Voiture)"
@@ -355,15 +355,15 @@
   "languages": [
     {
       "language": "🇫🇷 Français",
-      "fluency": "Langue natale"
+      "fluency": "Maîtrise : Langue natale"
     },
     {
       "language": "🇬🇧 English",
-      "fluency": "Fluent : TOEIC C1 965/990"
+      "fluency": "Maîtrise : Fluent : TOEIC C1 965/990"
     },
     {
       "language": "🇪🇸 Español",
-      "fluency": "A2-B1"
+      "fluency": "Débutant : A2-B1"
     }
   ],
   "interests": [
@@ -450,7 +450,7 @@
       ],
       "startDate": "2022-09-01",
       "endDate": "2023-10-01",
-      "url": "",
+      "url": "https://mathisgauthey.github.io/categories/projects/",
       "roles": [
         ""
       ],
@@ -470,7 +470,7 @@
       ],
       "startDate": "2021-10-18",
       "endDate": "2021-02-09",
-      "url": "",
+      "url": "https://mathisgauthey.github.io/projet-industriel-de-fin-d%C3%A9tudes-chariot-de-course-%C3%A0-assistance-%C3%A9lectrique/",
       "roles": [
         "Chef de projet"
       ],
@@ -482,7 +482,7 @@
       "description": "Conception d'un revolver Colt Python en 3D sous Catia V5 pendant le confinement en collaboration avec 2 autres étudiants.",
       "highlights": [
         "Premier projet de CAO complet",
-        "Pendant le confinement, maitrise des outils de collaboration en ligne"
+        "Pendant le confinement, maîtrise des outils de collaboration en ligne"
       ],
       "keywords": [
         "Catia V5",
@@ -490,7 +490,7 @@
       ],
       "startDate": "2020-01-01",
       "endDate": "2020-06-01",
-      "url": "",
+      "url": "https://mathisgauthey.github.io/projet-de-cao-mod%C3%A9lisation-dun-cold-python/",
       "roles": [
         ""
       ],
@@ -518,12 +518,12 @@
     },
     {
       "name": "Projet de création d'entreprise - GeoVelo",
-      "description": "Création de l'entreprise GEOVELO proposant un boîtier de détection d'accident et de vol avec géolocalisation, accéléromètre et système de prévention des secours pour vélo.",
+      "description": "Création de l'entreprise GeoVelo proposant un boîtier de détection d'accident et de vol avec géolocalisation, accéléromètre et système de prévention des secours pour vélo.",
       "highlights": [
         "Note maximale soutenance finale"
       ],
       "keywords": [
-        "GEOVELO",
+        "GeoVelo",
         "Accident",
         "Velo",
         "GPS",
