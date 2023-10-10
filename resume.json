@@ -7,9 +7,9 @@
     "email": "mathis.gauthey@gmail.com",
     "phone": "06 38 26 04 03",
     "url": "https://mathisgauthey.github.io/",
-    "summary": "Recherche un emploi jusqu'à février 2023 inclus.",
+    "summary": "Recherche un poste d'ingénieur en développement à partir d'Octobre 2023.",
     "location": {
-      "address": "29 Allée des marronniers",
+      "address": "",
       "postalCode": "01250",
       "city": "Saint-Just",
       "countryCode": "FR",
@@ -17,14 +17,19 @@
     },
     "profiles": [
       {
-        "network": "Website",
-        "username": "Site Web Personnel",
+        "network": "dribbble",
+        "username": "My Website",
         "url": "https://mathisgauthey.github.io/"
       },
       {
-        "network": "Website",
-        "username": "CV PDF",
+        "network": "wpforms",
+        "username": "One-Page CV.PDF",
         "url": "https://mathisgauthey.github.io/CV-pdf/"
+      },
+      {
+        "network": "jenkins",
+        "username": "My Projects",
+        "url": "https://mathisgauthey.github.io/categories/projects/"
       },
       {
         "network": "LinkedIn",
@@ -35,19 +40,50 @@
         "network": "Github",
         "username": "mathisgauthey",
         "url": "https://github.com/mathisgauthey"
+      },
+      {
+        "network": "Stack-overflow",
+        "username": "mathisgauthey",
+        "url": "https://github.com/mathisgauthey"
       }
     ]
   },
   "work": [
     {
-      "name": "🍫 Serveur/Vendeur - La Chocolatière",
+      "name": "💻 Vendeur - Boulanger",
       "location": "Bourg-en-Bresse, Auvergne-Rhône-Alpes, France",
       "description": "Rovipharm",
+      "position": "💻 Vendeur - Boulanger",
+      "url": "https://www.boulanger.com/magasins/auvergne-rhone-alpes/ain/bourg-en-bresse/21-boulevard-irene-joliot-curie",
+      "startDate": "2022-11-16",
+      "endDate": "2023-03-28",
+      "summary": "Conseiller de vente spécialisé en micro-informatique, téléphonie et multimédia.",
+      "highlights": [
+
+      ]
+    },
+    {
+      "name": "🍫 Serveur/Vendeur - La Chocolatière",
+      "location": "Bourg-en-Bresse, Auvergne-Rhône-Alpes, France",
+      "description": "",
       "position": "🍫 Serveur/Vendeur - La Chocolatière",
       "url": "https://www.facebook.com/lachocolatiere.bourg/",
       "startDate": "2022-10-25",
       "endDate": "2022-10-28",
       "summary": "Service à table, préparation de boissons chaudes, nettoyage des tables et du salon de thé.",
+      "highlights": [
+
+      ]
+    },
+    {
+      "name": "📦 Préparateur de commandes - CODEP",
+      "location": "Bourg-en-Bresse, Auvergne-Rhône-Alpes, France",
+      "description": "",
+      "position": "📦 Préparateur de commandes - CODEP",
+      "url": "https://www.codep.fr/",
+      "startDate": "2022-11-16",
+      "endDate": "2023-03-28",
+      "summary": "Préparation de commandes pour professionnels",
       "highlights": [
 
       ]
@@ -285,7 +321,7 @@
       "level": "Lecture sur la productivité pendant mon temps libre",
       "keywords": [
         "GTD (Getting Things Done)",
-        "PARA",
+        "P.A.R.A.",
         "Zettelkasten"
       ]
     },
@@ -332,71 +368,97 @@
   ],
   "interests": [
     {
-      "name": "🥾 Randonnée",
+      "name": "🥾 Randonnée et course à pieds",
       "keywords": [
-        "Bivouacs",
-        "Randonnées",
+        "Sortie à la journée",
+        "Weekend bivouac",
         "Trekking"
       ]
     },
     {
       "name": "💪 Callisthénie",
       "keywords": [
-        "Overcoming Gravity",
         "Musculation",
-        "Poids de corps"
-      ]
-    },
-    {
-      "name": "💻 Informatique et high-tech",
-      "keywords": [
-        "Montage démontage PC",
-        "Entretien PC",
-        "Dépannage logiciel",
-        "Dual-boot Linux encrypté",
-        "Actualité numérique"
-      ]
-    },
-    {
-      "name": "🎮 Gaming",
-      "keywords": [
-        "Passion de toujours"
-      ]
-    },
-    {
-      "name": "📕 Lecture",
-      "keywords": [
-        "Apprentissage",
-        "Science-fiction",
-        "Fantasy"
-      ]
-    },
-    {
-      "name": "📷 Photo & Vidéo",
-      "keywords": [
-        "Montage photo",
-        "Montage vidéo"
-      ]
-    },
-    {
-      "name": "🎵 Musique",
-      "keywords": [
-        "Rock",
-        "Everyday"
+        "Poids de corps",
+        "Gymnastique"
       ]
     },
     {
       "name": "🧳 Voyage",
       "keywords": [
-        "Visite",
-        "Vanlife",
-        "Moto"
+        "Backpacking"
+      ]
+    },
+    {
+      "name": "💻 Informatique et high-tech",
+      "keywords": [
+        "Montage et entretien PC",
+        "Dépannage logiciel",
+        "Dual-boot Linux encrypté",
+        "Scripts et automatisation"
+      ]
+    },
+    {
+      "name": "🎮 Gaming",
+      "keywords": [
+        "PC",
+        "Jeux indépendants"
+      ]
+    },
+    {
+      "name": "🍿 Visionnage de contenu",
+      "keywords": [
+        "Séries",
+        "Films"
+      ]
+    },
+    {
+      "name": "📕 Lecture",
+      "keywords": [
+        "Développement personnel",
+        "Science-fiction",
+        "Fantasy"
+      ]
+    },
+    {
+      "name": "🎵 Musique",
+      "keywords": [
+        "Mandoline"
+      ]
+    },
+    {
+      "name": "🎨 Art",
+      "keywords": [
+        "Dessin",
+        "Bricolage",
+        "Woodworking"
       ]
     }
   ],
   "projects": [
     {
-      "name": "Projet industriel",
+      "name": "Voyage au Royaume-Uni et Irlande dans un van aménagé",
+      "description": "Voyage au Royaume-Uni et Irlande dans un van aménagé",
+      "highlights": [
+        "Modélisation et réalisation des aménagements nécessaire au départ",
+        "Dimensionnement, modélisation et réalisation du réseau électrique",
+        "Développement des compétences linguistiques en Anglais avec les accents des différentes régions"
+      ],
+      "keywords": [
+        "OnShape",
+        "DrawIO"
+      ],
+      "startDate": "2022-09-01",
+      "endDate": "2023-10-01",
+      "url": "",
+      "roles": [
+        ""
+      ],
+      "entity": "",
+      "type": "Projet personnel"
+    },
+    {
+      "name": "Projet industriel de fin d'études - Chariot de course à assistance électrique",
       "description": "Conception d'un chariot de course à assistance électrique.",
       "highlights": [
         "Simulations numérique de validation sous Adams",
@@ -416,17 +478,18 @@
       "type": "Projet de fin d'études de conception"
     },
     {
-      "name": "Projet de CAO",
+      "name": "Projet de CAO - Colt Python",
       "description": "Conception d'un revolver Colt Python en 3D sous Catia V5 pendant le confinement en collaboration avec 2 autres étudiants.",
       "highlights": [
-        "Premier projet de CAO : Pendant le confinement, donc collaboration cloud requise"
+        "Premier projet de CAO complet",
+        "Pendant le confinement, maitrise des outils de collaboration en ligne"
       ],
       "keywords": [
         "Catia V5",
         "Cloud"
       ],
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2020-01-01",
+      "endDate": "2020-06-01",
       "url": "",
       "roles": [
         ""
@@ -435,7 +498,7 @@
       "type": "Projet de conception"
     },
     {
-      "name": "Projet de gestion d'entreprise",
+      "name": "Projet de gestion d'entreprise - Kalypso",
       "description": "Utilisation du logiciel Kalypso pour une compétition entre 40 équipes gérant chacune une entreprise de coques de bateau.",
       "highlights": [
         "Top 30% du classement global"
@@ -454,10 +517,10 @@
       "type": "Projet de gestion d'entreprise"
     },
     {
-      "name": "Projet de création d'entreprise",
+      "name": "Projet de création d'entreprise - GeoVelo",
       "description": "Création de l'entreprise GEOVELO proposant un boîtier de détection d'accident et de vol avec géolocalisation, accéléromètre et système de prévention des secours pour vélo.",
       "highlights": [
-        "Majoration soutenance finale"
+        "Note maximale soutenance finale"
       ],
       "keywords": [
         "GEOVELO",
@@ -476,10 +539,11 @@
       "type": "Projet de création d'entreprise"
     },
     {
-      "name": "Gestion de projet",
+      "name": "Gestion de projet - Project de recherche : Peut-on améliorer la résistance sismique d’un immeuble à l’aide d’un système de pendule amortisseur ?",
       "description": "Peut-on améliorer la résistance sismique d’un immeuble à l’aide d’un système de pendule amortisseur ?",
       "highlights": [
-        "Projet terminé à temps selon le planning"
+        "Organisation des différentes phases du projet à l'aide de Gantt",
+        "Respect des différentes dates limites"
       ],
       "keywords": [
         "Gantt",
