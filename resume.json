@@ -223,7 +223,7 @@
       "institution": "Polytech Lyon",
       "url": "https://polytech.univ-lyon1.fr/formation/cycle-ingenieur/mecanique",
       "area": "Ingénierie",
-      "studyType": "Diplôme d'ingénieur",
+      "studyType": "Diplôme d'ingénieur mécanique en simulation numérique",
       "startDate": "2019",
       "endDate": "2022",
       "score": "Diplôme obtenu. Classement : 19/45",
@@ -293,9 +293,9 @@
       "name": "📏 Conception Assistée par Ordinateur",
       "level": "Intermédiaire : Expérience de plusieurs projets de conception",
       "keywords": [
-        "Creo",
         "Catia V5",
-        "OnShape"
+        "OnShape",
+        "Creo"
       ]
     },
     {
