@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Mathis Gauthey",
-    "label": "Ingénieur mécanique",
+    "label": "Ingénieur mécanique en simulation numérique",
     "picture": "Photo_CV_Carre.jpg",
     "email": "mathis.gauthey@gmail.com",
     "phone": "06 38 26 04 03",
@@ -18,32 +18,32 @@
     "profiles": [
       {
         "network": "dribbble",
-        "username": "My Website",
+        "username": "Mon Site",
         "url": "https://mathisgauthey.github.io/"
       },
       {
         "network": "wpforms",
-        "username": "One-Page CV.PDF",
+        "username": "Mon CV (1 page) .PDF",
         "url": "https://mathisgauthey.github.io/CV-pdf/"
       },
       {
         "network": "jenkins",
-        "username": "My Projects",
+        "username": "Mes Projets",
         "url": "https://mathisgauthey.github.io/categories/projects/"
       },
       {
         "network": "LinkedIn",
-        "username": "Mathis Gauthey",
+        "username": "Mon LinkedIn",
         "url": "https://www.linkedin.com/in/mathisgauthey/"
       },
       {
         "network": "Github",
-        "username": "mathisgauthey",
+        "username": "Mon Github",
         "url": "https://github.com/mathisgauthey"
       },
       {
         "network": "Stack-overflow",
-        "username": "mathisgauthey",
+        "username": "Mon StackOverflow",
         "url": "https://stackoverflow.com/users/18775070/mathisgauthey"
       }
     ]
@@ -57,7 +57,7 @@
       "url": "https://www.boulanger.com/magasins/auvergne-rhone-alpes/ain/bourg-en-bresse/21-boulevard-irene-joliot-curie",
       "startDate": "2022-11-16",
       "endDate": "2023-03-28",
-      "summary": "Conseiller de vente spécialisé en micro-informatique, téléphonie et multimédia.",
+      "summary": "[Financement voyage] Conseiller de vente spécialisé en micro-informatique, téléphonie et multimédia.",
       "highlights": [
 
       ]
@@ -70,7 +70,7 @@
       "url": "https://www.codep.fr/",
       "startDate": "2022-11-10",
       "endDate": "2023-11-18",
-      "summary": "Préparation de commandes pour professionnels.",
+      "summary": "[Financement voyage] Préparation de commandes pour professionnels.",
       "highlights": [
 
       ]
@@ -83,7 +83,7 @@
       "url": "https://www.facebook.com/lachocolatiere.bourg/",
       "startDate": "2022-10-25",
       "endDate": "2022-10-28",
-      "summary": "Service à table, préparation de boissons chaudes, nettoyage des tables et du salon de thé.",
+      "summary": "[Financement voyage] Service à table, préparation de boissons chaudes, nettoyage des tables et du salon de thé.",
       "highlights": [
 
       ]
@@ -96,7 +96,7 @@
       "url": "https://m.facebook.com/profile.php?id=100056417477577",
       "startDate": "2022-09-05",
       "endDate": "2022-09-09",
-      "summary": "Récolte et contrôle du raisin. Port de charges.",
+      "summary": "[Financement voyage] Récolte et contrôle du raisin. Port de charges.",
       "highlights": [
 
       ]
@@ -282,8 +282,11 @@
       "keywords": [
         "C",
         "C++",
+        "Java",
         "Python",
-        "Matlab"
+        "Matlab",
+        "Bash",
+        "WSL2"
       ]
     },
     {
@@ -309,11 +312,9 @@
       "name": "💻 Informatique et bureautique",
       "level": "Avancé : Grande expérience personnelle",
       "keywords": [
+        "Linux Ubuntu",
         "LaTeX",
-        "Microsoft Office",
-        "Bash",
-        "Batch",
-        "Powershell"
+        "Microsoft Office"
       ]
     },
     {
@@ -322,7 +323,9 @@
       "keywords": [
         "GTD (Getting Things Done)",
         "P.A.R.A.",
-        "Atomic Habits"
+        "Atomic Habits",
+        "Power of Habits",
+        "Deep Work"
       ]
     },
     {
@@ -340,7 +343,8 @@
       "name": "📅 Gestion de projets",
       "level": "Intermédiaire : Chef de projet pendant les projets au cours de mes études",
       "keywords": [
-        "Gantt"
+        "Gantt",
+        "Jira"
       ]
     },
     {
@@ -368,7 +372,7 @@
   ],
   "interests": [
     {
-      "name": "🥾 Randonnée & course à pieds",
+      "name": "🥾 Randonnée & course à pied",
       "keywords": [
         "Sortie à la journée",
         "Weekend bivouac",
@@ -408,16 +412,16 @@
     {
       "name": "🍿 Séries & films",
       "keywords": [
-        "Séries",
-        "Films"
+        "Fantasy",
+        "Science-fiction"
       ]
     },
     {
       "name": "📕 Lecture",
       "keywords": [
         "Développement personnel",
-        "Science-fiction",
-        "Fantasy"
+        "Fantasy",
+        "Science-fiction"
       ]
     },
     {
@@ -450,7 +454,7 @@
       ],
       "startDate": "2022-09-01",
       "endDate": "2023-10-01",
-      "url": "https://mathisgauthey.github.io/categories/projects/",
+      "url": "https://mathisgauthey.github.io/tags/van/",
       "roles": [
         ""
       ],
