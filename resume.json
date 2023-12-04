@@ -58,9 +58,7 @@
       "startDate": "2022-11-16",
       "endDate": "2023-03-28",
       "summary": "[Financement voyage] Conseiller de vente spécialisé en micro-informatique, téléphonie et multimédia.",
-      "highlights": [
-
-      ]
+      "highlights": []
     },
     {
       "name": "📦 Préparateur de commandes - CODEP",
@@ -71,9 +69,7 @@
       "startDate": "2022-11-10",
       "endDate": "2023-11-18",
       "summary": "[Financement voyage] Préparation de commandes pour professionnels.",
-      "highlights": [
-
-      ]
+      "highlights": []
     },
     {
       "name": "🍫 Serveur/Vendeur - La Chocolatière",
@@ -84,9 +80,7 @@
       "startDate": "2022-10-25",
       "endDate": "2022-10-28",
       "summary": "[Financement voyage] Service à table, préparation de boissons chaudes, nettoyage des tables et du salon de thé.",
-      "highlights": [
-
-      ]
+      "highlights": []
     },
     {
       "name": "🍇 Vendangeur",
@@ -97,9 +91,7 @@
       "startDate": "2022-09-05",
       "endDate": "2022-09-09",
       "summary": "[Financement voyage] Récolte et contrôle du raisin. Port de charges.",
-      "highlights": [
-
-      ]
+      "highlights": []
     },
     {
       "name": "🔬 Stagiaire ingénieur d'études - Efectis France",
@@ -111,12 +103,12 @@
       "endDate": "2022-07-29",
       "summary": "Projet de recherche et innovation sur le comportement des structures soumises à un effet de surpression.",
       "highlights": [
-        "Analyse bibliographique des différentes méthodes d'étude d'une structure face à l'effet d'une onde de surpression",
-        "Rédaction en LaTeX d'un guide méthodologique complet d'analyse d'une structure soumise à une explosion comprenant une partie théorique et une partie pratique avec le travail expérimental réalisé au cours du stage",
-        "Développement de codes de calculs du DLF/SRS d'un signal de surpression sous Python",
-        "Réalisation d’une feuille Excel de calculs pour traiter les cas courants en élastique ou plastique",
-        "Développement de codes de calculs éléments finis sous Ansys APDL pour valider la partie théorique du guide",
-        "Développement de scripts de post-traitement des résultats sous Python"
+        "Analyse bibliographique des différentes méthodes d'étude d'une structure face à l'effet d'une onde de surpression.",
+        "Rédaction en LaTeX d'un guide méthodologique complet d'analyse d'une structure soumise à une explosion comprenant une partie théorique et une partie pratique avec le travail expérimental réalisé au cours du stage.",
+        "Développement de codes de calculs du DLF/SRS d'un signal de surpression sous Python.",
+        "Réalisation d’une feuille Excel de calculs pour traiter les cas courants en élastique ou plastique.",
+        "Développement de codes de calculs éléments finis sous Ansys APDL pour valider la partie théorique du guide.",
+        "Développement de scripts de post-traitement des résultats sous Python."
       ]
     },
     {
@@ -129,12 +121,12 @@
       "endDate": "2021-08-27",
       "summary": "Projet d'amélioration continu sur un îlot de production.",
       "highlights": [
-        "Analyse des causes de dé-cadencement et de perte de TRS",
-        "Mise en place d'un planning de maintenance préventive et de modes opératoires pour tout un îlot de production",
-        "Mise en place d'outils et formation du personnel au management de la performance au quotidien",
-        "Chantier 5S sur plusieurs lignes de production",
-        "Résolutions de problèmes opérationnels sur les différentes machines de l’Îlot de production",
-        "Collaboration et travail d'équipe avec les différents secteurs : Maintenance, R&D, Qualité, Production"
+        "Analyse des causes de dé-cadencement et de perte de TRS.",
+        "Mise en place d'un planning de maintenance préventive et de modes opératoires pour tout un îlot de production.",
+        "Mise en place d'outils et formation du personnel au management de la performance au quotidien.",
+        "Chantier 5S sur plusieurs lignes de production.",
+        "Résolutions de problèmes opérationnels sur les différentes machines de l’Îlot de production.",
+        "Collaboration et travail d'équipe avec les différents secteurs : Maintenance, R&D, Qualité, Production."
       ]
     },
     {
@@ -146,9 +138,7 @@
       "startDate": "2019-06-17",
       "endDate": "2019-07-03",
       "summary": "Opérateur sur presse, manutention de matériel médical en salles blanches, travail en équipe.",
-      "highlights": [
-
-      ]
+      "highlights": []
     },
     {
       "name": "🥼 Agent de production - Kalhyge",
@@ -159,9 +149,7 @@
       "startDate": "2019-06-11",
       "endDate": "2019-06-12",
       "summary": "Manutentions diverses, tri et gestion du linge, cintrage du linge. Travail à la chaine et transport des stocks de linge jusqu'au convoyeur.",
-      "highlights": [
-
-      ]
+      "highlights": []
     },
     {
       "name": "🏠 Opérateur sur presse - TMP Convert",
@@ -172,9 +160,7 @@
       "startDate": "2019-06-05",
       "endDate": "2019-06-05",
       "summary": "Opérateur sur presse, manutention de pièces d'aménagement extérieur issues de presses à injection plastique.",
-      "highlights": [
-
-      ]
+      "highlights": []
     },
     {
       "name": "💉 Opérateur sur presse - Rovipharm",
@@ -185,9 +171,7 @@
       "startDate": "2018-05-29",
       "endDate": "2018-07-23",
       "summary": "Opérateur sur presse, manutention de matériel médical en salles blanches, travail en équipe.",
-      "highlights": [
-
-      ]
+      "highlights": []
     },
     {
       "name": "💉 Opérateur sur presse - Rovipharm",
@@ -198,9 +182,7 @@
       "startDate": "2017-07-03",
       "endDate": "2017-07-21",
       "summary": "Opérateur sur presse, manutention de matériel médical en salles blanches, travail en équipe.",
-      "highlights": [
-
-      ]
+      "highlights": []
     },
     {
       "name": "💻 Stagiaire d'observation - Ellipse Informatique",
@@ -277,16 +259,56 @@
   ],
   "skills": [
     {
-      "name": "⌨️ Développement de scripts de calcul mécanique",
-      "level": "Avancé : Bonnes pratiques de programmation",
+      "name": "⌨️ Languages de programmation",
+      "level": "Avancé : Codes de calculs mécanique",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Python",
-        "Matlab",
+        "Matlab"
+      ]
+    },
+    {
+      "name": "⌨️ Languages de programmation",
+      "level": "Intermédiaire : Connaissances personnelles",
+      "keywords": [
+        "SQL",
         "Bash",
-        "WSL2"
+        "Batch",
+        "Powershell",
+        "AutoHotKey",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Regex"
+      ]
+    },
+    {
+      "name": "🧑‍💻 Compétences développement",
+      "level": "Avancé : Compétences variées",
+      "keywords": [
+        "Programmation Orienté Objet",
+        "Parallelisation (OpenMP, MPI)",
+        "Optimisation",
+        "Test-driven Dev",
+        "Behavior-driven Dev",
+        "Debugger",
+        "Flame Graphs"
+      ]
+    },
+    {
+      "name": "🟢 Tests automatisés",
+      "level": "Intermédiaire : Formation et projets",
+      "keywords": [
+        "TDD",
+        "JUnit",
+        "AssertJ",
+        "Mockito",
+        "Spring",
+        "Cucumber",
+        "Selenium",
+        "Puppeteer"
       ]
     },
     {
@@ -300,7 +322,7 @@
     },
     {
       "name": "⏳ Simulation numérique",
-      "level": "Avancé : Utilisation d'Ansys APDL pendant mon stage de fin d'études",
+      "level": "Avancé : Utilisation d'Ansys APDL pendant mon SFE",
       "keywords": [
         "Ansys APDL",
         "Adams",
@@ -310,22 +332,12 @@
     },
     {
       "name": "💻 Informatique et bureautique",
-      "level": "Avancé : Grande expérience personnelle",
+      "level": "Avancé : Expérience personnelle",
       "keywords": [
         "Linux Ubuntu",
+        "WSL2",
         "LaTeX",
         "Microsoft Office"
-      ]
-    },
-    {
-      "name": "✅ Organisation",
-      "level": "Intermédiaire : Lecture sur la productivité pendant mon temps libre",
-      "keywords": [
-        "GTD (Getting Things Done)",
-        "P.A.R.A.",
-        "Atomic Habits",
-        "Power of Habits",
-        "Deep Work"
       ]
     },
     {
@@ -343,8 +355,19 @@
       "name": "📅 Gestion de projets",
       "level": "Intermédiaire : Chef de projet pendant les projets au cours de mes études",
       "keywords": [
-        "Gantt",
-        "Jira"
+        "Jira",
+        "Gantt"
+      ]
+    },
+    {
+      "name": "✅ Organisation",
+      "level": "Intermédiaire : Lecture sur la productivité pendant mon temps libre",
+      "keywords": [
+        "GTD (Getting Things Done)",
+        "P.A.R.A. Method",
+        "Atomic Habits",
+        "Power of Habits",
+        "Deep Work"
       ]
     },
     {
@@ -444,9 +467,9 @@
       "name": "Voyage au Royaume-Uni et Irlande dans un van aménagé",
       "description": "Voyage au Royaume-Uni et Irlande dans un van aménagé",
       "highlights": [
-        "Modélisation et réalisation des aménagements nécessaire au départ",
-        "Dimensionnement, modélisation et réalisation du réseau électrique",
-        "Développement des compétences linguistiques en Anglais avec les accents des différentes régions"
+        "Modélisation et réalisation des aménagements nécessaire au départ.",
+        "Dimensionnement, modélisation et réalisation du réseau électrique.",
+        "Développement des compétences linguistiques en Anglais avec les accents des différentes régions."
       ],
       "keywords": [
         "OnShape",
@@ -465,8 +488,8 @@
       "name": "Projet industriel de fin d'études - Chariot de course à assistance électrique",
       "description": "Conception d'un chariot de course à assistance électrique.",
       "highlights": [
-        "Simulations numérique de validation sous Adams",
-        "Modélisation complète du chariot avec les différents composants sous Catia V5"
+        "Simulations numérique de validation sous Adams.",
+        "Modélisation complète du chariot avec les différents composants sous Catia V5."
       ],
       "keywords": [
         "Adams",
@@ -485,8 +508,8 @@
       "name": "Projet de CAO - Colt Python",
       "description": "Conception d'un revolver Colt Python en 3D sous Catia V5 pendant le confinement en collaboration avec 2 autres étudiants.",
       "highlights": [
-        "Premier projet de CAO complet",
-        "Pendant le confinement, maîtrise des outils de collaboration en ligne"
+        "Premier projet de CAO complet.",
+        "Pendant le confinement, maîtrise des outils de collaboration en ligne."
       ],
       "keywords": [
         "Catia V5",
@@ -505,7 +528,7 @@
       "name": "Projet de gestion d'entreprise - Kalypso",
       "description": "Utilisation du logiciel Kalypso pour une compétition entre 40 équipes gérant chacune une entreprise de coques de bateau.",
       "highlights": [
-        "Top 30% du classement global"
+        "Top 30% du classement global."
       ],
       "keywords": [
         "Kalypso",
@@ -524,7 +547,7 @@
       "name": "Projet de création d'entreprise - GeoVelo",
       "description": "Création de l'entreprise GeoVelo proposant un boîtier de détection d'accident et de vol avec géolocalisation, accéléromètre et système de prévention des secours pour vélo.",
       "highlights": [
-        "Note maximale soutenance finale"
+        "Note maximale soutenance finale."
       ],
       "keywords": [
         "GeoVelo",
@@ -546,8 +569,8 @@
       "name": "Gestion de projet - Project de recherche : Peut-on améliorer la résistance sismique d’un immeuble à l’aide d’un système de pendule amortisseur ?",
       "description": "Peut-on améliorer la résistance sismique d’un immeuble à l’aide d’un système de pendule amortisseur ?",
       "highlights": [
-        "Organisation des différentes phases du projet à l'aide de Gantt",
-        "Respect des différentes dates limites"
+        "Organisation des différentes phases du projet à l'aide de Gantt.",
+        "Respect des différentes dates limites."
       ],
       "keywords": [
         "Gantt",
