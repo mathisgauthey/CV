@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "jsonresume-theme-jdambron-fr": "^1.0.5",
-    "puppeteer": "^21.3.8"
+    "jsonresume-theme-jdambron-fr": "^1.0.5"
   }
 }
