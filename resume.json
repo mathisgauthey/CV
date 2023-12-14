@@ -462,6 +462,24 @@
       ]
     }
   ],
+  "references": [
+    {
+      "name": "Gautier D. (Efectis)",
+      "reference": "Je voulais moi aussi te dire merci pour avoir apporté une touche de fraicheur et encore plus de bonne humeur dans l’équipe, tout en t’impliquant et en réalisant un travail de qualité. C’est rare qu’on retrouve ces deux qualités d’un coup chez les gens de passage."
+    },
+    {
+      "name": "Dorjan D. (Efectis)",
+      "reference": "Je voudrais te remercier, encore une fois, pour ton implication dans ce stage. L'explosion n'est pas un sujet facile [...] mais malgré tout, tu as su t’approprier le sujet et avancer de manière quasi-indépendante."
+    },
+    {
+      "name": "Pierre M. (Amcor)",
+      "reference": "Mathis a les qualitées sociales et techniques pour poursuivre son parcours dans l'industrie."
+    },
+    {
+      "name": "Xavie V. (Amcor)",
+      "reference": "Je voulais te remercier pour ton aide et te féliciter pour ton travail. Tu as beaucoup aidé l’usine et grâce à toi, les opérateurs travaillent en meilleures conditions que quand tu étais arrivé. Merci!"
+    }
+  ],
   "projects": [
     {
       "name": "Voyage au Royaume-Uni et Irlande dans un van aménagé",
