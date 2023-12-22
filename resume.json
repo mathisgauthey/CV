@@ -482,6 +482,28 @@
   ],
   "projects": [
     {
+      "name": "Developpement d'une calculatrice en HTML/CSS/JS",
+      "description": "Developpement d'une calculatrice en HTML/CSS/JS",
+      "highlights": [
+        "Application des principes de TDD à l'aide de Jest.",
+        "Découverte des languages HTML/CSS/JS",
+        "Structuration du code pour faciliter les tests et séparer les différentes parties de l'application."
+      ],
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "startDate": "2023-12-16",
+      "endDate": "2023-12-22",
+      "url": "https://mathisgauthey.github.io/web-development-project-calculator-project-in-html-css-js/",
+      "roles": [
+        ""
+      ],
+      "entity": "",
+      "type": "Projet personnel"
+    },
+    {
       "name": "Voyage au Royaume-Uni et Irlande dans un van aménagé",
       "description": "Voyage au Royaume-Uni et Irlande dans un van aménagé",
       "highlights": [
